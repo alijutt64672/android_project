@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/flappy_bird.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Flappy Bird Style/_Scenes/Main.unity
+  isLoaded: 1
+  isActive: 0
